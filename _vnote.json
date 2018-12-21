@@ -25,13 +25,16 @@
             "name": "Docker"
         },
         {
-            "name": "运维问题摘录"
+            "name": "MySql"
         },
         {
             "name": "教程"
         },
         {
             "name": "学习笔记"
+        },
+        {
+            "name": "运维问题摘录"
         }
     ],
     "tags": [
